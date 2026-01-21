@@ -1,4 +1,5 @@
-﻿//2.1 Úkol 1 - Oprav funkci
+﻿/*
+//2.1 Úkol 1 - Oprav funkci
 void Greet ()
 {
     Console.WriteLine("Ahoj!");
@@ -134,3 +135,6 @@ while (true)
         break; 
     }
 }
+
+*/
+
